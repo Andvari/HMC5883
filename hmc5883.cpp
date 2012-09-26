@@ -5,6 +5,8 @@
  *      Author: nemo
  */
 
+#include "hmc5883.h"
 
+HMC5883 :: HMC5883(void){
 
-
+}

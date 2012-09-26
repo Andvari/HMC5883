@@ -8,6 +8,13 @@
 #ifndef HMC5883_H_
 #define HMC5883_H_
 
+class HMC5883{
+public:
+	HMC5883(void);
+
+private:
+
+};
 
 
 
